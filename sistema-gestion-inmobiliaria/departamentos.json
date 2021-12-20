@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "cantidadHabitacion": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 2395.8,
+    "comentarios": [
+      {
+        "comentario": "Bien!!",
+        "puntuacion": 5
+      },
+      {
+        "comentario": "Mal",
+        "puntuacion": 2
+      },
+      {
+        "comentario": "Mejorar",
+        "puntuacion": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cantidadHabitacion": 1,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 1597.2,
+    "comentarios": [
+      {
+        "comentario": "Bien!!",
+        "puntuacion": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cantidadHabitacion": 2,
+    "disponible": false,
+    "aceptaMascotas": false,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 3993,
+    "comentarios": [
+      {
+        "comentario": "Mejorar",
+        "puntuacion": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cantidadHabitacion": 1,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 1996.5,
+    "comentarios": [
+      {
+        "comentario": ":)",
+        "puntuacion": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "cantidadHabitacion": 1,
+    "disponible": false,
+    "aceptaMascotas": false,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 11979,
+    "comentarios": []
+  },
+  {
+    "id": 6,
+    "cantidadHabitacion": 2,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 3,
+    "precioAlquiler": 4658.5,
+    "comentarios": []
+  },
+  {
+    "id": 7,
+    "cantidadHabitacion": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 3,
+    "precioAlquiler": 3327.5,
+    "comentarios": []
+  },
+  {
+    "id": 8,
+    "cantidadHabitacion": 3,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 7986,
+    "comentarios": []
+  },
+  {
+    "id": 9,
+    "cantidadHabitacion": 3,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 7986,
+    "comentarios": []
+  },
+  {
+    "id": 10,
+    "cantidadHabitacion": 3,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 7986,
+    "comentarios": []
+  },
+  {
+    "id": 11,
+    "cantidadHabitacion": 3,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 7986,
+    "comentarios": []
+  },
+  {
+    "id": 12,
+    "cantidadHabitacion": 3,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 7986,
+    "comentarios": []
+  },
+  {
+    "id": 13,
+    "cantidadHabitacion": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 4059.55,
+    "comentarios": []
+  },
+  {
+    "id": 14,
+    "cantidadHabitacion": 1,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 3993,
+    "comentarios": []
+  },
+  {
+    "id": 15,
+    "cantidadHabitacion": 0,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 798.6,
+    "comentarios": []
+  },
+  {
+    "id": 16,
+    "cantidadHabitacion": 0,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 798.6,
+    "comentarios": []
+  },
+  {
+    "id": 17,
+    "cantidadHabitacion": 0,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 665.5,
+    "comentarios": []
+  }
+]
